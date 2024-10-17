@@ -18,7 +18,7 @@
     "@reduxjs/toolkit": "^1.9.7",
     "@stripe/stripe-js": "^2.2.0",
     "@types/react-router-dom": "^5.3.3",
-    "axios": "^1.6.0",
+    "axios": "^1.7.4",
     "dayjs": "^1.11.10",
     "formik": "^2.4.5",
     "js-cookie": "^3.0.5",
